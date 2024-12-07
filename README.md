@@ -9,6 +9,11 @@ Creative, ambitious, and self-motivated mobile software engineer. Although I hav
 My interest in mobile app development tracks back to 2013 when I built and published my first app. Since then, I have been passionate about mobile app development and have successfully published more than 20 apps, blending my academic background in Computing & IT with my enthusiasm for programming to create diverse and impactful solutions.
 I’ve successfully led mobile teams at two companies, where I not only guided projects to success but also cultivated a culture of innovation and excellence within the teams.
 
+find more about me here:
+[ESTEPS](https://www.esteps.my/) | 
+[LinkedIn](https://www.linkedin.com/in/elie-danhash/) 
+
+
 
 <!--
 **ElieDanhash/ElieDanhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
